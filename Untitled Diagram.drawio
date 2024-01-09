@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T14:19:03.268Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" version="22.1.17" etag="Yaw_n_uCH6loGcv9W2HB" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T14:19:38.181Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="tsNY95EWyYN1KE7MSYlR" version="22.1.17" type="github">
   <diagram name="Page-1" id="yPnVxilIkED46q4bNjGE">
-    <mxGraphModel>
+    <mxGraphModel dx="1981" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aJba7vhU6Bgrl-6rOspk-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJba7vhU6Bgrl-6rOspk-2" value="I like cards" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="200" width="80" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
