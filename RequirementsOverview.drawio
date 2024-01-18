@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T13:22:20.786Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="7YIF1SdMQqhaq966EuLM" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T13:23:25.393Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="cyU7Op_12YUYjDq_yyFi" version="22.1.18" type="github">
   <diagram name="Page-1" id="cmbC7FRgtakm0xJjbYf5">
     <mxGraphModel dx="369" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -236,6 +236,12 @@
         </mxCell>
         <mxCell id="aPB_nftNZLgnHfdCOMya-87" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame_corner;dx=3.87;whiteSpace=wrap;rotation=0;fillColor=#FF8000;strokeColor=none;" vertex="1" parent="aPB_nftNZLgnHfdCOMya-84">
           <mxGeometry x="16.003911879761255" y="0.7385999999999581" width="18.996088120238767" height="17.201994" as="geometry" />
+        </mxCell>
+        <mxCell id="aPB_nftNZLgnHfdCOMya-88" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Lake_Analytics.svg;" vertex="1" parent="1">
+          <mxGeometry x="948" y="390" width="29" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="aPB_nftNZLgnHfdCOMya-89" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Data_Lake_Analytics.svg;" vertex="1" parent="1">
+          <mxGeometry x="850" y="362.14" width="29" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
